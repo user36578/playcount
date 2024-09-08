@@ -3,7 +3,7 @@ import time,datetime
 
 # BVID放这里 格式: ["视频1id","视频2id","视频3id"...], BV号获取 https://www.bilibili.com/video/{这里就是BVID}/
 
-bvids = []
+bvids = [BV17DHZe6EpC]
 
 
 # 代理池配置 Proxy 1 来自: germey/proxypool, Proxy 2 来自 jhao104/proxy_pool
